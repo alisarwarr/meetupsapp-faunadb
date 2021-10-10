@@ -1,0 +1,18 @@
+.details {
+    text-align: center;
+    background-color: white;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.details img {
+    width: 100%;
+}
+
+.details p {
+    text-align: center;
+    padding-bottom: 0.625rem;
+    width: 90%;
+}
